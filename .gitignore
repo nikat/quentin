@@ -1,0 +1,16 @@
+# ignore all files starting with .
+.*
+
+# do not ignore .gitignore
+!.gitignore
+
+# ignore .yml files
+*.yml
+
+# ignore python cache
+__pycache__
+
+# ignore project file
+*.iml
+*.ipr
+*.iws
